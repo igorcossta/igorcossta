@@ -1,16 +1,13 @@
 ### Hi there, I'm Igor 👋
 
-## I'm a Student and Developer
-
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning everything 🤣
-- 💞️ I’m looking to collaborate with other content creators
+- 💞️ I’m looking to collaborate with other developers
 - ⚡ Fun fact: I don't have a girlfriend 😭
 
 ### Connect with me:
 
 <div>
-  <a href="https://www.linkedin.com/in/igorcossta/" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-cossta/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@igorcossta-blue?style=flat&logo=linkedin">
   </a>
   
