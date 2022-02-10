@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 💞️ I’m looking to collaborate with other developers
-- ⚡ Fun fact: I don't have a girlfriend 😭
+- ⚡ Fun fact: I love Java 😭
 
 ### Connect with me:
 
