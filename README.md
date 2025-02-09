@@ -1,16 +1,16 @@
-## Hi there 👋
+ <p align="left"><b><samp>🔴 🟡 🟢</samp></b></p>
+ <br>
 
-<!--
-**igorcossta/igorcossta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+      Hello, I'm Igor Costa<br>
+      <br>
+      <samp>I'm a Java developer and Linux enthusiast!<br></samp>
+  </p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b><samp> - 
+ <a href="https://github.com/igorcossta">portfolio</a>
+ - </samp></b></p>
+
+<br>
